@@ -43,8 +43,6 @@ I'm a **senior software engineer with 18 years** building production systems tha
 - **Scaled team 1 → 10 engineers** while shipping production dashboard
 - Maintained consistent sprint velocity throughout 10x growth
 
-[See full experience →](/experience)
-
 ---
 
 ### 🛠️ Technical Stack
